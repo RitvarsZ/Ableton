@@ -1,0 +1,13 @@
+{
+    "id" : "application/vnd.ableton.plugin-configuration",
+    "version" : "1.0",
+    "device-id" : "device:vst3:audiofx:f2aee70d-00de-4f4e-6774-755975726259?n=Youlean%20Loudness%20Meter%202",
+    "mpe-enabled" : false,
+    "groups" : [
+        {
+            "name" : "Default",
+            "parameters" : [
+            ]
+        }
+    ]
+}
